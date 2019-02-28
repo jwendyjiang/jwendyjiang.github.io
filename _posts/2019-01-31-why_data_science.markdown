@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why Data Science?"
+title:      "#MillennialChangesCareer - Why Data Science?"
 date:       2019-01-31 02:04:39 -0500
 permalink:  why_data_science
 ---
@@ -12,4 +12,4 @@ I left public accounting in 2017 after feeling burnt, and started the next chapt
 
 Due to various acquisitions, my company worked in several legacy systems and financial data was split between SAP and Oracle. One of the big projects I was working on was recalculating depreciation for fixed assets. It took a couple weeks just to get all the data, and another couple months to calculate everything in excel. Despite writing macros that cut down some time, the project still felt overly complicated and frustrating at every step. I just kept thinking, "There's got to be a better way." 
 
-I was still continuing to grow disillusioned by my job, when one of my friends mentioned she was looking into data science as a new career path. I was immediately intrigued. It helps when you are running on fumes from your current job. After doing some research, I felt like data science was something that just fit me. I had always been more interested in the data side of tax. I want to feel valued when I contribute to data process improvement. I had gone down the path of secure and stable. It's time for something that sparks passion (and yes, joy) despite the uncertainty.
+I was still continuing to grow disillusioned by my job, when one of my friends mentioned she was looking into data science as a new career path. I was immediately intrigued. It helps when you are running on fumes from your current job. After doing some research, I felt like data science was something that I could apply myself in. It's a trendy interdisciplinary field that is trying to solve problems in creative and innovative ways. It's almost opposite to the cyclical, conservative culture of accounting. I had always been more interested in the data side of tax anyway. I decided I wanted to feel valued when I contribute to data process improvement. I had gone down the path of secure and stable. It's time for something that sparks passion (and yes, joy) despite the uncertainty.
