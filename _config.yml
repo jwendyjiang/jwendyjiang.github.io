@@ -1,11 +1,11 @@
 # Site settings
-author: Wendy Jiang
-title: 
+author: Wendy
+title: Snakes & Bears
 header-img: img/home-bg.png
 email: jwendyjiang@gmail.com
-copyright_name: Wendy Jiang
+copyright_name: Wendy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Continuous Learning: Trials, Takeaways, Thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jwendyjiang
